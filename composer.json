@@ -1,0 +1,12 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"cFinancas\\\\" : "src"
+		}
+	},
+	"name" : "cFinancas",
+	"require" : {
+		"php" : ">=7.1",
+		"robmorgan/phinx" : "~0.9"
+	}
+}
